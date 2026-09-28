@@ -1,8 +1,8 @@
-name = "edt2026"
+name = "edgetunnel"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+#id = "5c444b08d6eb4157930387b1929d6db1"				#KV数据库id
